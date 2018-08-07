@@ -1,6 +1,6 @@
-SOURCE_URL=https://github.com/jeedom/core/archive/3.1.tar.gz
-SOURCE_SUM=9f3eafb76402f43fe9d4d459276ec7b267d0a0495c499f073c2da1737d238cd9
+SOURCE_URL=https://github.com/jeedom/core/archive/stable.zip
+SOURCE_SUM=6a13a2c4cf6b449d610755ae6563a5abc42361fd5b64f1c5f5adebee504088eb
 SOURCE_SUM_PRG=sha256sum
-SOURCE_FORMAT=tar.gz
+SOURCE_FORMAT=zipn
 SOURCE_IN_SUBDIR=true
-SOURCE_FILENAME=3.1.tar.gz
+SOURCE_FILENAME=stable.zip
